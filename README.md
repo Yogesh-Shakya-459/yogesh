@@ -1,1 +1,1 @@
-# Demo program
+# This is a Demo program.
